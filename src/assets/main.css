@@ -1,0 +1,14 @@
+.color-vue {
+    color: #42b883;
+}
+
+.btn-vue {
+    background-color: white;
+    color: #42b883;
+    border:#42b883 1px solid;
+}
+
+.btn-hover:hover {
+    background-color: #42b883;
+    color: #fff;
+}
